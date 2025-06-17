@@ -28,6 +28,7 @@ FROM friends;
 We see that the friends table has been created:
 
 ![alt text](images/create_a_table_1.png)
+
 We see that Ororo Munroe has been added:
 
 ![alt text](images/create_a_table_2.png)
