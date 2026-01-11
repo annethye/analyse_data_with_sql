@@ -15,6 +15,7 @@ FROM orders
 LIMIT 10;
 ```
 ![](images/davies_burgers_1.png)
+
 The column names are `id`, `user_id`, `order_date`, `restaurant_id`, `item_name` and `special_instructions`.
 
 ### 2. How recent is this data?
